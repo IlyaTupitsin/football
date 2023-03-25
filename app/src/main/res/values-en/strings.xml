@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="FIRST_TEAM">1 team</string>
+    <string name="second_team">2 team</string>
+    <string name="Button_clear">reset to zero</string>
+    <string name="Button_team2">add a point</string>
+    <string name="Button_team1">add a point</string>
+
+</resources>
